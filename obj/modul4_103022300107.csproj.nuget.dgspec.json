@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\modul4_103022300107\\modul4_103022300107.csproj": {}
+    "D:\\New folder\\jurnal-mod-4-kpl\\modul4_103022300107.csproj": {}
   },
   "projects": {
-    "D:\\modul4_103022300107\\modul4_103022300107.csproj": {
+    "D:\\New folder\\jurnal-mod-4-kpl\\modul4_103022300107.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\modul4_103022300107\\modul4_103022300107.csproj",
+        "projectUniqueName": "D:\\New folder\\jurnal-mod-4-kpl\\modul4_103022300107.csproj",
         "projectName": "modul4_103022300107",
-        "projectPath": "D:\\modul4_103022300107\\modul4_103022300107.csproj",
+        "projectPath": "D:\\New folder\\jurnal-mod-4-kpl\\modul4_103022300107.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\modul4_103022300107\\obj\\",
+        "outputPath": "D:\\New folder\\jurnal-mod-4-kpl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

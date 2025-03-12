@@ -12,3 +12,18 @@ D:\modul4_103022300107\obj\Debug\net8.0\refint\modul4_103022300107.dll
 D:\modul4_103022300107\obj\Debug\net8.0\modul4_103022300107.pdb
 D:\modul4_103022300107\obj\Debug\net8.0\modul4_103022300107.genruntimeconfig.cache
 D:\modul4_103022300107\obj\Debug\net8.0\ref\modul4_103022300107.dll
+D:\New folder\jurnal-mod-4-kpl\bin\Debug\net8.0\modul4_103022300107.exe
+D:\New folder\jurnal-mod-4-kpl\bin\Debug\net8.0\modul4_103022300107.deps.json
+D:\New folder\jurnal-mod-4-kpl\bin\Debug\net8.0\modul4_103022300107.runtimeconfig.json
+D:\New folder\jurnal-mod-4-kpl\bin\Debug\net8.0\modul4_103022300107.dll
+D:\New folder\jurnal-mod-4-kpl\bin\Debug\net8.0\modul4_103022300107.pdb
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.AssemblyInfoInputs.cache
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.AssemblyInfo.cs
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.csproj.CoreCompileInputs.cache
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.sourcelink.json
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.dll
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\refint\modul4_103022300107.dll
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.pdb
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\modul4_103022300107.genruntimeconfig.cache
+D:\New folder\jurnal-mod-4-kpl\obj\Debug\net8.0\ref\modul4_103022300107.dll
